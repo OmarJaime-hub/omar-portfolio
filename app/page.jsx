@@ -7,7 +7,7 @@ export default function OmarJaimeResumePortfolio() {
       role: "Mortuary Affairs Specialist",
       years: "Feb. 2019 – Feb. 2023",
       location: "Fort Lee, VA",
-      logo: "/images/army-logo.png",
+      logo: "/army-logo.png",
       points: [
         "Managed logistics and coordination for mortuary affairs operations.",
         "Maintained strict safety, sanitation, and operational standards.",
@@ -21,7 +21,7 @@ export default function OmarJaimeResumePortfolio() {
       role: "Light Armored Vehicle Crewman / Infantry Rifleman",
       years: "Jan. 2012 – Dec. 2019",
       location: "Camp Pendleton, CA – Fort Worth, TX",
-      logo: "/images/usmc-logo.jpg",
+      logo: "/usmc-logo.jpg",
       points: [
         "Supported military training exercises and field readiness operations.",
         "Operated and maintained military vehicles, weapons systems, communications equipment, and training support equipment.",
@@ -35,7 +35,7 @@ export default function OmarJaimeResumePortfolio() {
       role: "Car Salesman",
       years: "Jan. 2016 – Jan. 2019",
       location: "Mount Pleasant, TX",
-      logo: "/images/everett-logo.png",
+      logo: "/everett-logo.png",
       points: [
         "Built strong customer relationships and exceeded sales goals.",
         "Negotiated contracts and guided customers through purchasing decisions.",
