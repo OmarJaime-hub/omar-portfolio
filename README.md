@@ -1,22 +1,20 @@
 # Omar Jaime Portfolio
 
-This is a deploy-ready Next.js project for Vercel.
+Professional portfolio website for Omar Jaime, a U.S. Army and Marine Corps veteran with experience in training operations, range coordination, logistics, instructional support, operational readiness, and sales.
 
-## How to deploy without GitHub
+## About
 
-1. Download and unzip this project.
-2. Log into Vercel.
-3. Click **Add New** > **Project**.
-4. Choose the option to upload/import the project folder.
-5. Deploy.
+This portfolio highlights Omar’s military background, professional experience, core skills, and contact information in a modern recruiter-friendly format.
 
-## Local preview, optional
+## Built With
 
-If you have Node.js installed:
+- Next.js
+- React
+- Tailwind CSS
+- Vercel
 
-```bash
-npm install
-npm run dev
-```
+## Contact
 
-Then open the localhost link shown in the terminal.
+Location: Sumrall, MS  
+Phone: (903) 767-8926  
+Email: Omar.jaime@icloud.com
